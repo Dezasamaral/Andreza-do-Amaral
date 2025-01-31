@@ -24,9 +24,9 @@
 - Formada em Gestão Financeira;
 - Pós Graduada em Gestão de Negócios;
 - Pós Graduada em Gerenciamento Ágil de Projetos.
-  
-- <img height="100em" src="./.github/assets/CPA20.png"/>
-  Com Certificação CPA-20.<br />
+
+   <img height="100em" src="./.github/assets/CPA20.png"/>
+</Com Certificação CPA-20.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> I'm a Tech Instructor at @DIO_MAKETHECHANGE platform.
 
