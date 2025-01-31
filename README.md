@@ -30,18 +30,15 @@ Com Certificação CPA-20.<br />
 
 #
 
-  <p><strong>Entre em contato comigo</strong></p>
 
-- andreza.amaral@caixa.gov.br
-- andrezasilva@yahoo.com.br
-- 
-#
-
-<h3>Contact Me</h3>
+<h3>Contatos </h3>
 <div align="left">
 <p>
-<a href="mailto:felipeaguiar.social@gmail.com">
-<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
+<a href="mailto:andreza.amaral@caixa.gov.br">
+<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail Comercial">
+</a>
+<a href="mailto:andreza.silva@yahoo.com.br">
+<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail Pessoal">
 </a>
 <a href="https://www.linkedin.com/in/felipe-me"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
 <a href="https://www.youtube.com/@devaguia/videos"><img src="https://img.shields.io/badge/-Youtube-020114?style=for-the-badge&amp;logo=youtube&amp;logoColor=6ED2B6&amp;color:FFF" alt="Youtube"></a></p>
