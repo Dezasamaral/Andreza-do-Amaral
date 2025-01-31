@@ -40,9 +40,7 @@ Com Certificação CPA-20.<br />
 <a href="mailto:andreza.silva@yahoo.com.br">
 <img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail Pessoal">
 </a>
-<a href="https://www.linkedin.com/in/felipe-me"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
-<a href="https://www.youtube.com/@devaguia/videos"><img src="https://img.shields.io/badge/-Youtube-020114?style=for-the-badge&amp;logo=youtube&amp;logoColor=6ED2B6&amp;color:FFF" alt="Youtube"></a></p>
-</div>
+
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
