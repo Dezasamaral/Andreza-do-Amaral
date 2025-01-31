@@ -20,8 +20,8 @@
 <div><br />
 
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá! Meu nome é Andreza do Amaral e eu sou Gerente Pessoa Física na CAIXA ECÔNOMICA FEDERAL há 16 anos <br />
-- Formada em Gestão Fianceira.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá! Meu nome é Andreza do Amaral e eu sou Gerente Pessoa Física na CAIXA ECÔNOMICA FEDERAL há 16 anos. <br />
+- Formada em Gestão Financeira.
 - Pós Graduada em Gestão de Negócios.
 - Pós Graduada em Gerenciamento Ágil de Projetos.
 - <img height="50 em" src="./.github/assets/CPA20.png"/>  Com Certificação CPA-20.<br />
